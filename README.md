@@ -1,5 +1,7 @@
 # Lars Timmer
 
+![headshot](/assets/img/headshot.jpg)
+
 #### Technical Skills: Python, SQL
 
 ## Education		        		
