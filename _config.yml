@@ -2,5 +2,5 @@ title: Lars Timmer
 logo: /assets/img/headshot.jpg
 #description: text below image
 #show_downloads: true
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 gh_sponsor: lalutir
