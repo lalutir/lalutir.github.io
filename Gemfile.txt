@@ -11,4 +11,5 @@ group :test do
   gem "rubocop", "~> 1.37"
   gem "rubocop-performance"
   gem "webmock"
+  gem "github-pages", group: :jekyll_plugins
 end
