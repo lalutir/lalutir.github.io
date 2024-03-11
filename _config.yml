@@ -1,6 +1,8 @@
 title: Lars Timmer
 logo: /assets/img/headshot.jpg
-#description: text below image
+description:  <a href="https://lalutir.github.io/f1-analysis" target="_blank">F1 Analysis project page</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
 gh_sponsor: lalutir
+github:
+  is_project_page: false
