@@ -1,4 +1,4 @@
-# Lars Timmer
+
 <!--
 ![headshot](/assets/img/headshot.jpg)
 -->
