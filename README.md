@@ -4,8 +4,11 @@
 -->
 #### Technical Skills: Python, SQL
 
-## Education		        		
+## Education	
+| Degree  | Institution |
+| :------------- | :------------- |
 | BSc., Applied Data Science and Artificial Intelligence | The Hague University of Applied Sciences (_estimated: July 2027_) |
+
 
 <!--## Work Experience-->
 
