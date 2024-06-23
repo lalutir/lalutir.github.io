@@ -13,9 +13,5 @@
 <!--## Work Experience-->
 
 ## Projects
-### F1 Analysis [(GitHub)](https://github.com/lalutir/f1-analysis)
-- Creating a GitHub repository where I show all my analyses for the Formula 1 Grand Prix weekends. I will also be posting a blog on [medium.com](medium.com/@lars.l.timmer) after every Grand Prix weekend showing what I have done and what we can learn from it.
-
-## My Blog
-
-- [F1 Analysis Blog](https://medium.com/@lars.l.timmer)
+### Football match predictions [(Github)](https://github.com/lalutir/Football-match-predictions)
+- Predicts football match scorelines using a machine learning model with Python, featuring advanced data analysis and prediction capabilities.
