@@ -13,6 +13,7 @@
 
 ## Work Experience
 | Job title | Organisation |
+| :------------- | :------------- |
 | Student Assistent | The Hague University of Applied Sciences |
 | Treasurer of the Live Video Committee | Proteus-Eretes |
 | Data Science Student, Analysing Trends in Injuries for Wheelchair Tennis | KNLTB |
